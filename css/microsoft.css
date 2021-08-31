@@ -1,0 +1,36 @@
+body{font-family:Arial, Helvetica, Sans-serif;
+background:lightGrey;
+}
+.mic{text-align:center; 
+color:blueViolet}
+.center-content{background-color:white;
+width:300px;
+margin:0 auto;
+font-weight:bold;
+
+}
+.border{border:2px solid grey;
+border-radius:40px;}
+.jon{
+text-align:center;
+
+}
+.button-center{
+text-align:center;
+margin:0 auto;}
+.bold{
+font-weight:bold;}
+.ss{text-decoration:none;}
+.sign{margin-bottom:20px;}
+input[type="text"],
+input[type="submit"]{width:100%;
+
+}
+
+input[type="text"] {
+border-bottom:2px purple solid;
+margin-top:none;
+}
+
+
+
